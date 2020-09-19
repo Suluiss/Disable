@@ -93,7 +93,7 @@ a.nav-link{
 }
 
 #home .filter{
-	background: url('https://images.unsplash.com/photo-1544099858-75feeb57f01b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80') no-repeat;
+	background: url('https://media0.giphy.com/media/xUPGcjOgbuxZ8Gtkly/source.gif') no-repeat;
 	background-size: cover;
 	background-position:center;
     position: absolute;
@@ -101,7 +101,7 @@ a.nav-link{
     bottom: 0;
     left: 0;
     right: 0;
-	opacity:.20;
+	opacity:.70;
 }  
 
 .intro {
